@@ -1,0 +1,40 @@
+{
+  "files": {
+    "main.css": "/shop/static/css/main.5f361e03.chunk.css",
+    "main.js": "/shop/static/js/main.b0980f89.chunk.js",
+    "main.js.map": "/shop/static/js/main.b0980f89.chunk.js.map",
+    "runtime-main.js": "/shop/static/js/runtime-main.4a8e269c.js",
+    "runtime-main.js.map": "/shop/static/js/runtime-main.4a8e269c.js.map",
+    "static/js/2.b96033a0.chunk.js": "/shop/static/js/2.b96033a0.chunk.js",
+    "static/js/2.b96033a0.chunk.js.map": "/shop/static/js/2.b96033a0.chunk.js.map",
+    "index.html": "/shop/index.html",
+    "precache-manifest.5ec4c24cead2a2e77e129e73676854f0.js": "/shop/precache-manifest.5ec4c24cead2a2e77e129e73676854f0.js",
+    "service-worker.js": "/shop/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/shop/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.b96033a0.chunk.js.LICENSE.txt": "/shop/static/js/2.b96033a0.chunk.js.LICENSE.txt",
+    "static/media/aceton.jpg": "/shop/static/media/aceton.40c7987a.jpg",
+    "static/media/arrow_back.svg": "/shop/static/media/arrow_back.e46210f4.svg",
+    "static/media/auto.jpg": "/shop/static/media/auto.51a04ea8.jpg",
+    "static/media/bohrer.jpg": "/shop/static/media/bohrer.ca8300db.jpg",
+    "static/media/cart.svg": "/shop/static/media/cart.0737e8fe.svg",
+    "static/media/chess.jpg": "/shop/static/media/chess.3ae55600.jpg",
+    "static/media/eimer.jpg": "/shop/static/media/eimer.d6e2feb2.jpg",
+    "static/media/icon_home.svg": "/shop/static/media/icon_home.55df8864.svg",
+    "static/media/logo.svg": "/shop/static/media/logo.02262a1d.svg",
+    "static/media/lupe.jpg": "/shop/static/media/lupe.accd3003.jpg",
+    "static/media/nasenhaarpflege.jpg": "/shop/static/media/nasenhaarpflege.bd96a1c4.jpg",
+    "static/media/ronny.jpg": "/shop/static/media/ronny.c121fa38.jpg",
+    "static/media/socke.jpg": "/shop/static/media/socke.37ab2216.jpg",
+    "static/media/surprise4.jpg": "/shop/static/media/surprise4.57767859.jpg",
+    "static/media/tastatur.jpg": "/shop/static/media/tastatur.1c6e1736.jpg",
+    "static/media/warnschild.jpg": "/shop/static/media/warnschild.5347102e.jpg",
+    "static/media/weinglas.jpg": "/shop/static/media/weinglas.f83d4b83.jpg",
+    "static/media/zahnbuerste.jpg": "/shop/static/media/zahnbuerste.ca1ed49a.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4a8e269c.js",
+    "static/js/2.b96033a0.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.b0980f89.chunk.js"
+  ]
+}
